@@ -1,5 +1,8 @@
 # scrollinfinite
-ScrollInfinite is a simple example of how infinite reverse scroll works.
+ScrollInfinite is a simple project that shows how reverse infinite scroll works.
+Flawlessly scroll through records without the need for pagination. Just Scroll.
+You can simply implement the logic used here to your project to add the feature to your app.
+
 
 ## Setup
 <p>Simply change the databaase credentials in the db_connection.php
