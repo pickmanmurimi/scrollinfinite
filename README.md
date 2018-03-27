@@ -12,10 +12,10 @@ Am using pdo to connect to the database, do not worry, you can use any method, t
 <p>Run index.php and play around with the home page.</p>
 
 ## Files
-* customjs/srollinfinite.js *
+* customjs/srollinfinite.js
 <p>This file contains the core of scrollinfinite.
 We are using jquery and ajax to add event listeners and make ajax calls to the server and have new records being loaded.</p>
 
-* assets/ *
+* assets/
 <p>here we have bootsrap4 and jquery files
 scrollinfinite uses jquery and bootsrap 4 for styling.</p>
