@@ -1,7 +1,7 @@
 # scrollinfinite
-ScrollInfinite is a simple project that shows how reverse infinite scroll works.
-Flawlessly scroll through records without the need for pagination. Just Scroll.
-You can simply implement the logic used here to your project to add the feature to your app.
+<p>ScrollInfinite is a simple project that shows how reverse infinite scroll works.</p>
+<p>Flawlessly scroll through records without the need for pagination. Just Scroll.</p>
+<p>You can simply implement the logic used here to your project to add the feature to your app.</p>
 
 
 ## Setup
